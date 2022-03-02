@@ -1,0 +1,5 @@
+rootProject.name = 'buildersTask2'
+include 'db'
+include 'service'
+include 'api'
+
